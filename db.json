@@ -1,11 +1,14 @@
 {
-  "posts":
+  "posts": [
     {
-      "id": 1,
-      "description": "This is Amazing",
+      "name":"Random Token",
+      "description":"This is amazing I see",
+      "external_url":"",
+      "attributes":"",
       "image": "https://ipfs.io/QmRuCmAtiEwgSznSodaDX4Ve39zswPesRFdoL5WogpCRzX/ipfs/QmRQ6h8JapUD7gkXfAUVhcua9Lc3eex4ZdgfxVYYyq3H9S?filename=K-Pebble.glb",
-      "name": "The True Pebble"
-    },
+      "collection":{}
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
