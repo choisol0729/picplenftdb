@@ -3,7 +3,13 @@
     {
       "id": 1,
       "description": "This is Amazing",
-      "external_url": "https://ipfs.io/QmRuCmAtiEwgSznSodaDX4Ve39zswPesRFdoL5WogpCRzX/ipfs/QmRQ6h8JapUD7gkXfAUVhcua9Lc3eex4ZdgfxVYYyq3H9S?filename=K-Pebble.glb",
+      "image": "https://ipfs.io/QmRuCmAtiEwgSznSodaDX4Ve39zswPesRFdoL5WogpCRzX/ipfs/QmRQ6h8JapUD7gkXfAUVhcua9Lc3eex4ZdgfxVYYyq3H9S?filename=K-Pebble.glb",
+      "name": "The True Pebble"
+    }, 
+    {
+      "id": 2,
+      "description": "Even amazinger",
+      "image": "https://ipfs.io/QmRuCmAtiEwgSznSodaDX4Ve39zswPesRFdoL5WogpCRzX/ipfs/QmRQ6h8JapUD7gkXfAUVhcua9Lc3eex4ZdgfxVYYyq3H9S?filename=K-Pebble.glb",
       "name": "The True Pebble"
     }
   ],
