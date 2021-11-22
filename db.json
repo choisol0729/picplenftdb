@@ -1,11 +1,11 @@
 {
   "posts":
     {
+      "animation_url": "ipfs://QmRQ6h8JapUD7gkXfAUVhcua9Lc3eex4ZdgfxVYYyq3H9S",
       "name":"Random Token",
       "description":"This is amazing I see",
       "external_url":"",
       "attributes":"",
-      "animation_url": "ipfs://QmRQ6h8JapUD7gkXfAUVhcua9Lc3eex4ZdgfxVYYyq3H9S",
       "collection":{}
     },
   "profile": {
