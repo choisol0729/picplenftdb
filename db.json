@@ -1,24 +1,9 @@
 {
-  "posts":
-    {
-      "animation_url": "https://pictureplaceimagebucket.s3.ap-northeast-2.amazonaws.com/TestVideos/K-Pebble.glb",
-      "name":"Random Token",
-      "description":"This is amazing I see",
-      "external_url":"",
-      "attributes":"",
-      "collection":{},
-      "image":"ipfs://QmRuCmAtiEwgSznSodaDX4Ve39zswPesRFdoL5WogpCRzX",
-      "preview":"ipfs://QmRuCmAtiEwgSznSodaDX4Ve39zswPesRFdoL5WogpCRzX"
-    },
-  "profile": 
-    {
-      "name": "typicode"
-    },
   "tokens":[
-      {
+    {
       "animation_url": "https://pictureplaceimagebucket.s3.ap-northeast-2.amazonaws.com/TestVideos/K-Pebble.glb",
       "name": "Truffle Token",
       "description": "First truffle Token",
-      }
-    ]
+    }
+  ]
 }
