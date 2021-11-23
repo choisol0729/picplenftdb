@@ -6,7 +6,8 @@
       "description":"This is amazing I see",
       "external_url":"",
       "attributes":"",
-      "collection":{}
+      "collection":{},
+      "image":""
     },
   "profile": {
     "name": "typicode"
